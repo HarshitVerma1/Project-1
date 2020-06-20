@@ -6,4 +6,4 @@
 
 
 
- <h2>                         ******  Thank you  ******** 
+ <h2 align='center'>                         ******  Thank you  ******** 
