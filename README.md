@@ -5,5 +5,5 @@
    ###       Enjoy this app !!!                                                 
 
                                            
-<img align="centre" width="100" height="100" src="thank.gif">
+<img align='center' width="100" height="100" src="thank.gif">
  <h2 align='center'>                         ******  Thank you  ******** 
