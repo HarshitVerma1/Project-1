@@ -5,5 +5,5 @@
    ###       Enjoy this app !!!                                                 
 
                                            
- !["THANK YOU"](thank.gif)
+<img align="center" width="100" height="100" src="thank.gif">
  <h2 align='center'>                         ******  Thank you  ******** 
